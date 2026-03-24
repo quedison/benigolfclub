@@ -1,0 +1,1396 @@
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Started parent process [7162]
+INFO:     Started server process [7165]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [7166]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [7166]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [7165]
+INFO:     Stopping parent process [7162]
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Started parent process [8458]
+INFO:     Started server process [8460]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [8461]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8460]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8461]
+INFO:     Stopping parent process [8458]
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Started parent process [8491]
+INFO:     Started server process [8493]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [8494]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8493]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8494]
+INFO:     Stopping parent process [8491]
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+ERROR:    [Errno 98] Address already in use
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [14867]
+INFO:     Started server process [14877]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [14878]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 207, in get_me
+    return UserResponse(**current_user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14877]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14878]
+INFO:     Stopping parent process [14867]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [15041]
+INFO:     Started server process [15045]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [15044]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15044]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15045]
+INFO:     Stopping parent process [15041]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [15436]
+INFO:     Started server process [15439]
+INFO:     Waiting for application startup.
+INFO:     Started server process [15438]
+INFO:     Application startup complete.
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15439]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15438]
+INFO:     Stopping parent process [15436]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [15638]
+INFO:     Started server process [15640]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [15641]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15640]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15641]
+INFO:     Stopping parent process [15638]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [15742]
+INFO:     Started server process [15745]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [15746]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15746]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15745]
+INFO:     Stopping parent process [15742]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [15950]
+INFO:     Started server process [15952]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [15953]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15952]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15953]
+INFO:     Stopping parent process [15950]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [41532]
+INFO:     Started server process [41537]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [41536]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41537]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41536]
+INFO:     Stopping parent process [41532]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [41577]
+INFO:     Started server process [41579]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [41580]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 215, in get_users
+    return [UserResponse(**u) for u in users]
+            ^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 215, in get_users
+    return [UserResponse(**u) for u in users]
+            ^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41580]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41579]
+INFO:     Stopping parent process [41577]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [41833]
+INFO:     Started server process [41837]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [41838]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 223, in get_users
+    return [UserResponse(**u) for u in users]
+            ^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 223, in get_users
+    return [UserResponse(**u) for u in users]
+            ^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/server.py", line 223, in get_users
+    async def delete_user(user_id: str, current_user: dict = Depends(get_current_user)):
+                ^^^^^^^^^^^^^^^^^
+  File "/var/www/benigolfclub/backend/venv/lib/python3.12/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+email
+  value is not a valid email address: An email address must have an @-sign. [type=value_error, input_value='admin', input_type=str]
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41837]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41838]
+INFO:     Stopping parent process [41833]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [42653]
+INFO:     Started server process [42656]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [42657]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [42656]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [42657]
+INFO:     Stopping parent process [42653]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [42756]
+INFO:     Started server process [42760]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [42761]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [42761]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [42760]
+INFO:     Stopping parent process [42756]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [43262]
+INFO:     Started server process [43266]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [43267]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43266]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43267]
+INFO:     Stopping parent process [43262]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [43334]
+INFO:     Started server process [43338]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [43339]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43338]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43339]
+INFO:     Stopping parent process [43334]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [43621]
+INFO:     Started server process [43624]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [43625]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43625]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43624]
+INFO:     Stopping parent process [43621]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [43839]
+INFO:     Started server process [43841]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [43842]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43842]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43841]
+INFO:     Stopping parent process [43839]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [44041]
+INFO:     Started server process [44044]
+INFO:     Started server process [44045]
+INFO:     Waiting for application startup.
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44044]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44045]
+INFO:     Stopping parent process [44041]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [44238]
+INFO:     Started server process [44241]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [44242]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44242]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44241]
+INFO:     Stopping parent process [44238]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [44516]
+INFO:     Started server process [44519]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [44520]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44520]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44519]
+INFO:     Stopping parent process [44516]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [45216]
+INFO:     Started server process [45219]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [45218]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45219]
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45218]
+INFO:     Stopping parent process [45216]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [45461]
+INFO:     Started server process [45464]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [45463]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45463]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45464]
+INFO:     Stopping parent process [45461]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [45497]
+INFO:     Started server process [45499]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [45500]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45499]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45500]
+INFO:     Stopping parent process [45497]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [45537]
+INFO:     Started server process [45540]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [45541]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45540]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [45541]
+INFO:     Stopping parent process [45537]
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [45996]
+INFO:     Started server process [46000]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [46001]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

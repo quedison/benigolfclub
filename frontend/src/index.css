@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Manrope:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 150 30% 15%;
+    --card: 0 0% 98%;
+    --card-foreground: 150 30% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 30% 15%;
+    --primary: 150 35% 25%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 45 10% 95%;
+    --secondary-foreground: 150 30% 15%;
+    --muted: 45 10% 92%;
+    --muted-foreground: 150 10% 45%;
+    --accent: 150 35% 25%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 45 10% 85%;
+    --input: 45 10% 85%;
+    --ring: 150 35% 25%;
+    --radius: 0.25rem;
+    --chart-1: 150 35% 25%;
+    --chart-2: 150 35% 35%;
+    --chart-3: 150 35% 45%;
+    --chart-4: 150 25% 55%;
+    --chart-5: 150 25% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Manrope', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .font-accent {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+  }
+}
+
+@layer components {
+  .gold-gradient {
+    background: linear-gradient(135deg, #2D5A3D 0%, #4A7C59 50%, #2D5A3D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .gold-border {
+    border-color: #2D5A3D;
+  }
+  
+  .gold-bg {
+    background-color: #2D5A3D;
+  }
+  
+  .gold-text {
+    color: #2D5A3D;
+  }
+  
+  .glass-header {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  
+  .hero-overlay {
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%);
+  }
+  
+  .card-hover {
+    @apply transition-all duration-500;
+  }
+  
+  .card-hover:hover {
+    @apply border-[#2D5A3D]/30;
+    box-shadow: 0 10px 40px rgba(45, 90, 61, 0.1);
+  }
+  
+  .image-zoom {
+    @apply transition-transform duration-700;
+  }
+  
+  .image-zoom:hover {
+    @apply scale-110;
+  }
+  
+  .btn-gold {
+    @apply bg-[#2D5A3D] text-white uppercase tracking-[0.2em] px-8 py-4 font-medium transition-all duration-300 hover:bg-[#1F3D2A];
+  }
+  
+  .btn-outline-gold {
+    @apply border border-[#2D5A3D] text-[#2D5A3D] uppercase tracking-[0.2em] px-8 py-4 font-medium transition-all duration-300 hover:bg-[#2D5A3D] hover:text-white;
+  }
+  
+  .input-elegant {
+    @apply bg-transparent border-b border-[#2D5A3D]/20 focus:border-[#2D5A3D] outline-none px-0 py-4 text-[#2D5A3D] placeholder:text-[#2D5A3D]/30 transition-all duration-300;
+  }
+  
+  .section-title {
+    @apply text-4xl sm:text-5xl lg:text-6xl font-semibold tracking-tight;
+  }
+  
+  .section-subtitle {
+    @apply text-base lg:text-lg text-[#5A7D6A] font-accent italic;
+  }
+}
+
+@layer utilities {
+  .animate-fade-up {
+    animation: fadeUp 0.8s ease-out forwards;
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.6s ease-out forwards;
+  }
+  
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F5F5F0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C5C5C0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2D5A3D;
+}
+
+/* Selection styling */
+::selection {
+  background: rgba(45, 90, 61, 0.2);
+  color: #1F3D2A;
+}
+
+[data-debug-wrapper="true"] {
+  display: contents !important;
+}
+
+[data-debug-wrapper="true"] > * {
+  margin-left: inherit;
+  margin-right: inherit;
+  margin-top: inherit;
+  margin-bottom: inherit;
+  padding-left: inherit;
+  padding-right: inherit;
+  padding-top: inherit;
+  padding-bottom: inherit;
+  column-gap: inherit;
+  row-gap: inherit;
+  gap: inherit;
+}

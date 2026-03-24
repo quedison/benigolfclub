@@ -1,0 +1,198 @@
+import { useEffect, useState } from 'react';
+import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
+import { TreePine, Flag, Users, ShoppingBag } from 'lucide-react';
+import { useLanguage } from '@/lib/i18n';
+import { getSiteTexts, getSiteImages } from '@/lib/api';
+
+export const GolfPage = () => {
+  const { t, getContent } = useLanguage();
+  const [texts, setTexts] = useState({});
+  const [images, setImages] = useState({});
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const [textsRes, imagesRes] = await Promise.all([
+          getSiteTexts('golf'),
+          getSiteImages('golf')
+        ]);
+        
+        const textsMap = {};
+        textsRes.data.forEach(t => { textsMap[t.key] = t.content; });
+        setTexts(textsMap);
+        
+        const imagesMap = {};
+        imagesRes.data.forEach(i => { imagesMap[i.key] = i; });
+        setImages(imagesMap);
+      } catch (error) {
+        console.error('Failed to fetch golf data:', error);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+    fetchData();
+  }, []);
+
+  const features = [
+    { 
+      icon: Flag, 
+      title: getContent(texts.feature_1_title) || '18 Trous', 
+      desc: getContent(texts.feature_1_desc) || 'Un parcours complet et varié' 
+    },
+    { 
+      icon: TreePine, 
+      title: getContent(texts.feature_2_title) || 'Nature Préservée', 
+      desc: getContent(texts.feature_2_desc) || 'Au cœur de la forêt luxembourgeoise' 
+    },
+    { 
+      icon: ShoppingBag, 
+      title: getContent(texts.feature_3_title) || 'Pro Shop', 
+      desc: getContent(texts.feature_3_desc) || 'Équipement et accessoires' 
+    },
+    { 
+      icon: Users, 
+      title: getContent(texts.feature_4_title) || 'Driving Range', 
+      desc: getContent(texts.feature_4_desc) || 'Entraînement pour tous niveaux' 
+    },
+  ];
+
+  if (isLoading) {
+    return (
+      <div className="h-screen flex items-center justify-center bg-[#2D5A3D]">
+        <div className="w-8 h-8 border-2 border-white/30 border-t-white rounded-full animate-spin"></div>
+      </div>
+    );
+  }
+
+  return (
+    <div data-testid="golf-page">
+      {/* Hero */}
+      <section className="h-[70vh] relative overflow-hidden">
+        <div className="absolute inset-0">
+          {images.hero ? (
+            <img
+              src={images.hero.url}
+              alt={getContent(images.hero.alt) || "Golf"}
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            <div className="w-full h-full bg-[#2D5A3D]" />
+          )}
+          <div className="absolute inset-0 bg-[#2D5A3D]/50" />
+        </div>
+        
+        <div className="relative h-full flex items-center justify-center text-center px-4">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8 }}
+          >
+            <span className="text-white/90 uppercase tracking-[0.3em] text-sm mb-4 block font-accent">
+              {getContent(texts.subtitle) || 'Golf Club Clervaux'}
+            </span>
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-serif font-semibold text-white">
+              {getContent(texts.title) || 'The Golf Club'}
+            </h1>
+          </motion.div>
+        </div>
+      </section>
+
+      {/* Description */}
+      <section className="py-24 px-4 bg-[#F8F7F4]">
+        <div className="max-w-4xl mx-auto text-center">
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            className="text-xl text-[#5A7D6A] leading-relaxed font-accent italic"
+          >
+            {getContent(texts.description) || "Niché au cœur des Ardennes luxembourgeoises, notre parcours 18 trous offre une expérience golfique unique alliant beauté naturelle et défis sportifs. Chaque trou est une invitation à découvrir la splendeur de notre région."}
+          </motion.p>
+        </div>
+      </section>
+
+      {/* Features */}
+      <section className="py-24 bg-white px-4">
+        <div className="max-w-7xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {features.map((feature, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, y: 30 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: index * 0.1 }}
+                className="text-center p-8 bg-[#F8F7F4] border border-[#E5E5E0] card-hover"
+              >
+                <feature.icon className="w-12 h-12 text-[#2D5A3D] mx-auto mb-6" strokeWidth={1} />
+                <h3 className="text-xl font-serif text-[#1F3D2A] mb-3">{feature.title}</h3>
+                <p className="text-[#5A7D6A] text-sm">{feature.desc}</p>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Images - only show if at least one exists */}
+      {(images.image1 || images.image2) && (
+        <section className="py-16 bg-[#F8F7F4] px-4">
+          <div className="max-w-7xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {images.image1 && (
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  className="aspect-[16/10] overflow-hidden"
+                >
+                  <img
+                    src={images.image1.url}
+                    alt={getContent(images.image1.alt) || "Golf 1"}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
+                  />
+                </motion.div>
+              )}
+              {images.image2 && (
+                <motion.div
+                  initial={{ opacity: 0, x: 30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  className="aspect-[16/10] overflow-hidden"
+                >
+                  <img
+                    src={images.image2.url}
+                    alt={getContent(images.image2.alt) || "Golf 2"}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
+                  />
+                </motion.div>
+              )}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* CTA */}
+      <section className="py-32 relative overflow-hidden bg-[#2D5A3D]">
+        <div className="relative max-w-4xl mx-auto text-center px-4">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+          >
+            <h2 className="text-4xl sm:text-5xl font-serif font-semibold text-white mb-6">
+              {getContent(texts.cta_title) || 'Prêt pour une partie?'}
+            </h2>
+            <p className="text-lg text-white/90 font-accent italic mb-10">
+              {getContent(texts.cta_text) || 'Réservez votre green fee et découvrez notre parcours exceptionnel'}
+            </p>
+            <Link to="/reservations" className="bg-white text-[#2D5A3D] uppercase tracking-[0.2em] px-8 py-4 font-medium transition-all duration-300 hover:bg-[#1F3D2A] hover:text-white">
+              {t('common.reserve')}
+            </Link>
+          </motion.div>
+        </div>
+      </section>
+    </div>
+  );
+};
